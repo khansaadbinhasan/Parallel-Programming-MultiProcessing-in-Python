@@ -50,3 +50,6 @@ Enter size of list desired: 23
 
 ## Results
 This will print the results of different scans
+
+
+If you want to understand how these algorithms work please take a look at the following blog: https://khansaadbinhasan.blogspot.com/2020/05/parallel-programming-multiprocessing-in.html
